@@ -16,12 +16,7 @@ For this category, I have chosen to work with a data file from the DAT 220 Final
 
 **Code Review**
 
-<iframe src="https://www.youtube.com/embed/{{ yVP35t4-eYc }}" 
-    width="560" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+{% include youtubePlayer.html id=page.yVP35t4-eYcd %}
 
 [![Alt text](https://img.youtube.com/vi/yVP35t4-eYc/0.jpg)](https://www.youtube.com/watch?v=yVP35t4-eYc)
 
