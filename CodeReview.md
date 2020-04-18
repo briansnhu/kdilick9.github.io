@@ -27,9 +27,8 @@ For this category, I have chosen to work with a data file from the DAT 220 Final
 </div>
 
 **Porfolio Links**<br>
-[Professional Self-Assessment](https://kdilick9.github.io/index.html)<br>
-[Refinement Plan & Code Review](https://kdilick9.github.io/CodeReview.html)<br>
-[Enhancement One](https://kdilick9.github.io/EnhancementOne.html)<br>
-[Enhancement Two](https://kdilick9.github.io/EnhancementTwo.html)<br>
-[Enhancement Three](https://kdilick9.github.io/EnhancementThree.html)
-
+* [Professional Self-Assessment](https://kdilick9.github.io/index.html)<br>
+* [Refinement Plan & Code Review](https://kdilick9.github.io/CodeReview.html)<br>
+* [Enhancement One](https://kdilick9.github.io/EnhancementOne.html)<br>
+* [Enhancement Two](https://kdilick9.github.io/EnhancementTwo.html)<br>
+* [Enhancement Three](https://kdilick9.github.io/EnhancementThree.html)
