@@ -16,9 +16,7 @@ For this category, I have chosen to work with a data file from the DAT 220 Final
 
 **Code Review**
 
-{% include youtubePlayer.html id=page.VP35t4-eYcd %}
-
-[![Alt text](https://img.youtube.com/vi/yVP35t4-eYc/0.jpg)](https://www.youtube.com/watch?v=yVP35t4-eYc)
+{% include youtubePlayer.html id=page.yVP35t4-eYcd %}
 
 **Enhancements**
 
