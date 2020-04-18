@@ -16,12 +16,20 @@ For this category, I have chosen to work with a data file from the DAT 220 Final
 
 **Code Review**
 
-<video width="320" height="200" controls preload> 
-    <source src="https://www.youtube.com/watch?v=yVP35t4-eYc"></source> 
-</video>
+<iframe src="https://www.youtube.com/embed/{{ yVP35t4-eYc }}" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
 [![Alt text](https://img.youtube.com/vi/yVP35t4-eYc/0.jpg)](https://www.youtube.com/watch?v=yVP35t4-eYc)
 
 **Enhancements**
 
-[Enhancement One](./EnhancementOne.md)
+[Enhancement One](https://kdilick9.github.io/EnhancementOne.html)
+
+[Enhancement Two](https://kdilick9.github.io/EnhancementTwo.html)
+
+[Enhancement Three](https://kdilick9.github.io/EnhancementThree.html)
 
