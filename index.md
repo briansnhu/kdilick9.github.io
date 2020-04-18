@@ -15,8 +15,16 @@ For this category, I have chosen to work with my IT 145 Final Project. This code
 For this category, I have chosen to work with a data file from the DAT 220 Final Project. This data was regarding customers of a specific store with both a physical and online presence. For this artifact, I would like to create a MongoDB interface to allow a user to quickly search for data within the file. Some of the queries I would like to implement are for simple searches within each field, as well as the ability to query for customer data by state, city, age bracket, etc. 
 
 **Code Review**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yVP35t4-eYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div align="center">
+  <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/yVP35t4-eYc" 
+        frameborder="0" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen="">
+  </iframe>
+</div>
 
 **Enhancements**
 
